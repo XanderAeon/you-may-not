@@ -1,59 +1,3 @@
-[2022-04-04 21:08:36] Debug: EasyRPG Player 0.7.0 started
-[2022-04-04 21:08:36] Debug: ============================
-[2022-04-04 21:08:36] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2022-04-04 21:08:36] Debug: Seeded the RNG with 1649131715.
-[2022-04-04 21:08:36] Debug: CLI: 
-[2022-04-04 21:08:36] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2022-04-04 21:08:36] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2022-04-04 21:08:36] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2022-04-04 21:08:36] Debug: Detected encoding: ibm-5348_P100-1997
-[2022-04-04 21:08:36] Debug: Game and Save Directory:
-[2022-04-04 21:08:36] Debug: 1: [Native] 
-[2022-04-04 21:08:36] Debug: Loading game Untitled
-[2022-04-04 21:08:36] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2022-04-04 21:08:36] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2022-04-04 21:08:36] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2022-04-04 21:08:38] Debug: RTP is "Official English" (675/675)
-[2022-04-04 21:08:38] Debug: Patch configuration: dynrpg=false maniac=false
-[2022-04-04 21:08:38] Debug: Cannot find: ./ExFont
-[2022-04-04 21:08:38] Debug: Loading ExFont from RPG_RT.exe
-[2022-04-04 21:08:38] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
-[2022-04-04 21:08:39] Debug: libpng: iCCP: known incorrect sRGB profile
-[2022-04-04 21:08:39] Debug: libpng: cHRM: inconsistent chromaticities
-[2022-04-04 21:08:39] Debug: Game uses RTP "Official English"
-[2022-04-04 21:08:39] Debug: Fluidsynth: Could not load soundfont.
-[2022-04-04 21:08:42] Debug: Starting new game
-[2022-04-04 21:08:42] Debug: Loaded Map Map0001.lmu
-[2022-04-04 21:08:42] Debug: Tree: MAP0001
-[2022-04-14 16:39:05] Debug: EasyRPG Player 0.7.0 started
-[2022-04-14 16:39:05] Debug: ============================
-[2022-04-14 16:39:05] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2022-04-14 16:39:05] Debug: Seeded the RNG with 1649979544.
-[2022-04-14 16:39:05] Debug: CLI: TestPlay HideTitle Window 
-[2022-04-14 16:39:05] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2022-04-14 16:39:05] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2022-04-14 16:39:05] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2022-04-14 16:39:05] Debug: Detected encoding: ibm-5348_P100-1997
-[2022-04-14 16:39:05] Debug: Game and Save Directory:
-[2022-04-14 16:39:05] Debug: 1: [Native] 
-[2022-04-14 16:39:05] Debug: Loading game Untitled
-[2022-04-14 16:39:05] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2022-04-14 16:39:05] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2022-04-14 16:39:05] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2022-04-14 16:39:08] Debug: RTP is "Official English" (675/675)
-[2022-04-14 16:39:08] Debug: Patch configuration: dynrpg=false maniac=false
-[2022-04-14 16:39:08] Debug: Cannot find: ./ExFont
-[2022-04-14 16:39:08] Debug: Loading ExFont from RPG_RT.exe
-[2022-04-14 16:39:08] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
-[2022-04-14 16:39:08] Debug: Starting new game
-[2022-04-14 16:39:08] Debug: Loaded Map Map0001.lmu
-[2022-04-14 16:39:08] Debug: Tree: MAP0001
-[2022-04-14 16:39:09] Debug: Game uses RTP "Official English"
-[2022-04-14 16:40:22] Debug: EasyRPG Player 0.7.0 started
-[2022-04-14 16:40:22] Debug: ============================
-[2022-04-14 16:40:22] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2022-04-14 16:40:22] Debug: Seeded the RNG with 1649979621.
-[2022-04-14 16:40:22] Debug: CLI: TestPlay HideTitle Window 
 [2022-04-14 16:40:22] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
 [2022-04-14 16:40:22] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
 [2022-04-14 16:40:22] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
@@ -892,3 +836,631 @@
 [2022-04-15 19:43:47] Debug: Loaded Map Map0004.lmu
 [2022-04-15 19:43:47] Debug: Tree: moonocean
 [2022-04-15 19:43:48] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 19:44:49] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 19:44:49] Debug: ============================
+[2022-04-15 19:44:49] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 19:44:49] Debug: Seeded the RNG with 1650077088.
+[2022-04-15 19:44:49] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 19:44:49] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 19:44:49] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 19:44:49] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 19:44:49] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 19:44:49] Debug: Game and Save Directory:
+[2022-04-15 19:44:49] Debug: 1: [Native] 
+[2022-04-15 19:44:49] Debug: Loading game Untitled
+[2022-04-15 19:44:49] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 19:44:49] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 19:44:49] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 19:44:52] Debug: RTP is "Official English" (675/675)
+[2022-04-15 19:44:52] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 19:44:52] Debug: Cannot find: ./ExFont
+[2022-04-15 19:44:52] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 19:44:52] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 19:44:52] Debug: Starting new game
+[2022-04-15 19:44:52] Debug: Loaded Map Map0004.lmu
+[2022-04-15 19:44:52] Debug: Tree: moonocean
+[2022-04-15 19:44:54] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 19:49:24] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 19:49:24] Debug: ============================
+[2022-04-15 19:49:24] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 19:49:24] Debug: Seeded the RNG with 1650077363.
+[2022-04-15 19:49:24] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 19:49:24] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 19:49:24] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 19:49:24] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 19:49:24] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 19:49:24] Debug: Game and Save Directory:
+[2022-04-15 19:49:24] Debug: 1: [Native] 
+[2022-04-15 19:49:24] Debug: Loading game Untitled
+[2022-04-15 19:49:24] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 19:49:24] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 19:49:24] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 19:49:27] Debug: RTP is "Official English" (675/675)
+[2022-04-15 19:49:27] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 19:49:27] Debug: Cannot find: ./ExFont
+[2022-04-15 19:49:27] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 19:49:27] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 19:49:28] Debug: Starting new game
+[2022-04-15 19:49:28] Debug: Loaded Map Map0004.lmu
+[2022-04-15 19:49:28] Debug: Tree: moonocean
+[2022-04-15 19:49:29] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 20:01:12] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 20:01:12] Debug: ============================
+[2022-04-15 20:01:12] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 20:01:12] Debug: Seeded the RNG with 1650078071.
+[2022-04-15 20:01:12] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 20:01:12] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 20:01:12] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 20:01:12] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 20:01:12] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 20:01:12] Debug: Game and Save Directory:
+[2022-04-15 20:01:12] Debug: 1: [Native] 
+[2022-04-15 20:01:12] Debug: Loading game Untitled
+[2022-04-15 20:01:12] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 20:01:12] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 20:01:12] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 20:01:15] Debug: RTP is "Official English" (675/675)
+[2022-04-15 20:01:15] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 20:01:15] Debug: Cannot find: ./ExFont
+[2022-04-15 20:01:15] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 20:01:15] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 20:01:15] Debug: Starting new game
+[2022-04-15 20:01:15] Debug: Loaded Map Map0004.lmu
+[2022-04-15 20:01:15] Debug: Tree: moonocean
+[2022-04-15 20:01:16] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 20:01:16] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256) [4x]
+[2022-04-15 20:01:16] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256)
+[2022-04-15 20:04:46] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 20:04:46] Debug: ============================
+[2022-04-15 20:04:46] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 20:04:46] Debug: Seeded the RNG with 1650078285.
+[2022-04-15 20:04:46] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 20:04:46] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 20:04:46] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 20:04:46] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 20:04:46] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 20:04:46] Debug: Game and Save Directory:
+[2022-04-15 20:04:46] Debug: 1: [Native] 
+[2022-04-15 20:04:46] Debug: Loading game Untitled
+[2022-04-15 20:04:46] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 20:04:46] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 20:04:46] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 20:04:49] Debug: RTP is "Official English" (675/675)
+[2022-04-15 20:04:49] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 20:04:49] Debug: Cannot find: ./ExFont
+[2022-04-15 20:04:49] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 20:04:49] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 20:04:49] Debug: Starting new game
+[2022-04-15 20:04:49] Debug: Loaded Map Map0004.lmu
+[2022-04-15 20:04:49] Debug: Tree: moonocean
+[2022-04-15 20:04:51] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 20:04:51] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256) [4x]
+[2022-04-15 20:04:51] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256)
+[2022-04-15 20:15:43] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 20:15:43] Debug: ============================
+[2022-04-15 20:15:43] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 20:15:43] Debug: Seeded the RNG with 1650078942.
+[2022-04-15 20:15:43] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 20:15:43] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 20:15:43] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 20:15:43] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 20:15:43] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 20:15:43] Debug: Game and Save Directory:
+[2022-04-15 20:15:43] Debug: 1: [Native] 
+[2022-04-15 20:15:43] Debug: Loading game Untitled
+[2022-04-15 20:15:43] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 20:15:43] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 20:15:43] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 20:15:46] Debug: RTP is "Official English" (675/675)
+[2022-04-15 20:15:46] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 20:15:46] Debug: Cannot find: ./ExFont
+[2022-04-15 20:15:46] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 20:15:46] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 20:15:46] Debug: Starting new game
+[2022-04-15 20:15:46] Debug: Loaded Map Map0004.lmu
+[2022-04-15 20:15:46] Debug: Tree: moonocean
+[2022-04-15 20:15:47] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 20:15:47] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256) [4x]
+[2022-04-15 20:15:47] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256)
+[2022-04-15 20:19:37] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 20:19:37] Debug: ============================
+[2022-04-15 20:19:37] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 20:19:37] Debug: Seeded the RNG with 1650079176.
+[2022-04-15 20:19:37] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 20:19:37] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 20:19:37] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 20:19:37] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 20:19:37] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 20:19:37] Debug: Game and Save Directory:
+[2022-04-15 20:19:37] Debug: 1: [Native] 
+[2022-04-15 20:19:37] Debug: Loading game Untitled
+[2022-04-15 20:19:37] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 20:19:37] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 20:19:37] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 20:19:40] Debug: RTP is "Official English" (675/675)
+[2022-04-15 20:19:40] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 20:19:40] Debug: Cannot find: ./ExFont
+[2022-04-15 20:19:40] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 20:19:40] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 20:19:41] Debug: Starting new game
+[2022-04-15 20:19:41] Debug: Loaded Map Map0004.lmu
+[2022-04-15 20:19:41] Debug: Tree: moonocean
+[2022-04-15 20:19:42] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 20:19:42] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256) [4x]
+[2022-04-15 20:19:42] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256)
+[2022-04-15 20:20:17] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 20:20:17] Debug: ============================
+[2022-04-15 20:20:17] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 20:20:17] Debug: Seeded the RNG with 1650079216.
+[2022-04-15 20:20:17] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 20:20:17] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 20:20:17] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 20:20:17] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 20:20:17] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 20:20:17] Debug: Game and Save Directory:
+[2022-04-15 20:20:17] Debug: 1: [Native] 
+[2022-04-15 20:20:17] Debug: Loading game Untitled
+[2022-04-15 20:20:17] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 20:20:17] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 20:20:17] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 20:20:20] Debug: RTP is "Official English" (675/675)
+[2022-04-15 20:20:20] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 20:20:20] Debug: Cannot find: ./ExFont
+[2022-04-15 20:20:20] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 20:20:20] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 20:20:20] Debug: Starting new game
+[2022-04-15 20:20:20] Debug: Loaded Map Map0004.lmu
+[2022-04-15 20:20:20] Debug: Tree: moonocean
+[2022-04-15 20:20:22] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 20:20:22] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256) [4x]
+[2022-04-15 20:20:22] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256)
+[2022-04-15 20:24:19] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 20:24:19] Debug: ============================
+[2022-04-15 20:24:19] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 20:24:19] Debug: Seeded the RNG with 1650079458.
+[2022-04-15 20:24:19] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 20:24:19] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 20:24:19] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 20:24:19] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 20:24:19] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 20:24:19] Debug: Game and Save Directory:
+[2022-04-15 20:24:19] Debug: 1: [Native] 
+[2022-04-15 20:24:19] Debug: Loading game Untitled
+[2022-04-15 20:24:19] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 20:24:19] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 20:24:19] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 20:24:22] Debug: RTP is "Official English" (675/675)
+[2022-04-15 20:24:22] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 20:24:22] Debug: Cannot find: ./ExFont
+[2022-04-15 20:24:22] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 20:24:22] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 20:24:22] Debug: Starting new game
+[2022-04-15 20:24:22] Debug: Loaded Map Map0004.lmu
+[2022-04-15 20:24:22] Debug: Tree: moonocean
+[2022-04-15 20:24:24] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 20:24:24] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256) [4x]
+[2022-04-15 20:24:24] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256)
+[2022-04-15 20:26:03] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 20:26:03] Debug: ============================
+[2022-04-15 20:26:03] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 20:26:03] Debug: Seeded the RNG with 1650079562.
+[2022-04-15 20:26:03] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 20:26:03] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 20:26:03] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 20:26:03] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 20:26:03] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 20:26:03] Debug: Game and Save Directory:
+[2022-04-15 20:26:03] Debug: 1: [Native] 
+[2022-04-15 20:26:03] Debug: Loading game Untitled
+[2022-04-15 20:26:03] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 20:26:03] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 20:26:03] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 20:26:06] Debug: RTP is "Official English" (675/675)
+[2022-04-15 20:26:06] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 20:26:06] Debug: Cannot find: ./ExFont
+[2022-04-15 20:26:06] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 20:26:06] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 20:58:57] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 20:58:57] Debug: ============================
+[2022-04-15 20:58:57] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 20:58:57] Debug: Seeded the RNG with 1650081536.
+[2022-04-15 20:58:57] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 20:58:57] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 20:58:57] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 20:58:57] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 20:58:57] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 20:58:57] Debug: Game and Save Directory:
+[2022-04-15 20:58:57] Debug: 1: [Native] 
+[2022-04-15 20:58:57] Debug: Loading game Untitled
+[2022-04-15 20:58:57] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 20:58:57] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 20:58:57] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 20:59:00] Debug: RTP is "Official English" (675/675)
+[2022-04-15 20:59:00] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 20:59:00] Debug: Cannot find: ./ExFont
+[2022-04-15 20:59:00] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 20:59:00] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 20:59:05] Debug: Starting new game
+[2022-04-15 20:59:05] Debug: Loaded Map Map0004.lmu
+[2022-04-15 20:59:05] Debug: Tree: moonocean
+[2022-04-15 20:59:06] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 20:59:06] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256) [4x]
+[2022-04-15 20:59:06] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256)
+[2022-04-15 20:59:20] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256) [20x]
+[2022-04-15 20:59:20] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 21:50:45] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 21:50:45] Debug: ============================
+[2022-04-15 21:50:45] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 21:50:45] Debug: Seeded the RNG with 1650084644.
+[2022-04-15 21:50:45] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 21:50:45] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 21:50:45] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 21:50:45] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 21:50:45] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 21:50:45] Debug: Game and Save Directory:
+[2022-04-15 21:50:45] Debug: 1: [Native] 
+[2022-04-15 21:50:45] Debug: Loading game Untitled
+[2022-04-15 21:50:45] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 21:50:45] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 21:50:45] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 21:50:48] Debug: RTP is "Official English" (675/675)
+[2022-04-15 21:50:48] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 21:50:48] Debug: Cannot find: ./ExFont
+[2022-04-15 21:50:48] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 21:50:48] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 21:50:48] Debug: Starting new game
+[2022-04-15 21:50:48] Debug: Loaded Map Map0005.lmu
+[2022-04-15 21:50:48] Debug: Tree: vents
+[2022-04-15 21:57:12] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 21:57:12] Debug: ============================
+[2022-04-15 21:57:12] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 21:57:12] Debug: Seeded the RNG with 1650085031.
+[2022-04-15 21:57:12] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 21:57:12] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 21:57:12] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 21:57:12] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 21:57:12] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 21:57:12] Debug: Game and Save Directory:
+[2022-04-15 21:57:12] Debug: 1: [Native] 
+[2022-04-15 21:57:12] Debug: Loading game Untitled
+[2022-04-15 21:57:12] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 21:57:12] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 21:57:12] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 21:57:15] Debug: RTP is "Official English" (675/675)
+[2022-04-15 21:57:15] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 21:57:15] Debug: Cannot find: ./ExFont
+[2022-04-15 21:57:15] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 21:57:15] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 21:57:16] Debug: Starting new game
+[2022-04-15 21:57:16] Debug: Loaded Map Map0005.lmu
+[2022-04-15 21:57:16] Debug: Tree: vents
+[2022-04-15 21:57:42] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 21:57:42] Debug: ============================
+[2022-04-15 21:57:42] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 21:57:42] Debug: Seeded the RNG with 1650085061.
+[2022-04-15 21:57:42] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 21:57:42] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 21:57:42] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 21:57:42] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 21:57:42] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 21:57:42] Debug: Game and Save Directory:
+[2022-04-15 21:57:42] Debug: 1: [Native] 
+[2022-04-15 21:57:43] Debug: Loading game Untitled
+[2022-04-15 21:57:43] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 21:57:43] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 21:57:43] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 21:57:46] Debug: RTP is "Official English" (675/675)
+[2022-04-15 21:57:46] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 21:57:46] Debug: Cannot find: ./ExFont
+[2022-04-15 21:57:46] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 21:57:46] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 21:57:47] Debug: Starting new game
+[2022-04-15 21:57:47] Debug: Loaded Map Map0005.lmu
+[2022-04-15 21:57:47] Debug: Tree: vents
+[2022-04-15 22:06:44] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 22:06:44] Debug: ============================
+[2022-04-15 22:06:44] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 22:06:44] Debug: Seeded the RNG with 1650085603.
+[2022-04-15 22:06:44] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 22:06:44] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 22:06:44] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 22:06:44] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 22:06:44] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 22:06:44] Debug: Game and Save Directory:
+[2022-04-15 22:06:44] Debug: 1: [Native] 
+[2022-04-15 22:06:44] Debug: Loading game Untitled
+[2022-04-15 22:06:44] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 22:06:44] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 22:06:44] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 22:06:47] Debug: RTP is "Official English" (675/675)
+[2022-04-15 22:06:47] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 22:06:47] Debug: Cannot find: ./ExFont
+[2022-04-15 22:06:47] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 22:06:47] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 22:06:48] Debug: Starting new game
+[2022-04-15 22:06:48] Debug: Loaded Map Map0005.lmu
+[2022-04-15 22:06:48] Debug: Tree: vents
+[2022-04-15 22:07:16] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 22:07:16] Debug: ============================
+[2022-04-15 22:07:16] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 22:07:16] Debug: Seeded the RNG with 1650085635.
+[2022-04-15 22:07:16] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 22:07:16] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 22:07:16] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 22:07:16] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 22:07:16] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 22:07:16] Debug: Game and Save Directory:
+[2022-04-15 22:07:16] Debug: 1: [Native] 
+[2022-04-15 22:07:16] Debug: Loading game Untitled
+[2022-04-15 22:07:16] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 22:07:16] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 22:07:16] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 22:07:19] Debug: RTP is "Official English" (675/675)
+[2022-04-15 22:07:19] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 22:07:19] Debug: Cannot find: ./ExFont
+[2022-04-15 22:07:19] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 22:07:19] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 22:07:20] Debug: Starting new game
+[2022-04-15 22:07:20] Debug: Loaded Map Map0005.lmu
+[2022-04-15 22:07:20] Debug: Tree: vents
+[2022-04-15 22:11:14] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 22:11:14] Debug: ============================
+[2022-04-15 22:11:14] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 22:11:14] Debug: Seeded the RNG with 1650085873.
+[2022-04-15 22:11:14] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 22:11:14] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 22:11:14] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 22:11:14] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 22:11:14] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 22:11:14] Debug: Game and Save Directory:
+[2022-04-15 22:11:14] Debug: 1: [Native] 
+[2022-04-15 22:11:14] Debug: Loading game Untitled
+[2022-04-15 22:11:14] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 22:11:14] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 22:11:14] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 22:11:17] Debug: RTP is "Official English" (675/675)
+[2022-04-15 22:11:17] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 22:11:17] Debug: Cannot find: ./ExFont
+[2022-04-15 22:11:17] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 22:11:17] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 22:11:18] Debug: Starting new game
+[2022-04-15 22:11:18] Debug: Loaded Map Map0005.lmu
+[2022-04-15 22:11:18] Debug: Tree: vents
+[2022-04-15 22:19:57] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 22:19:57] Debug: ============================
+[2022-04-15 22:19:57] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 22:19:57] Debug: Seeded the RNG with 1650086397.
+[2022-04-15 22:19:57] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 22:19:57] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 22:19:57] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 22:19:57] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 22:19:57] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 22:19:57] Debug: Game and Save Directory:
+[2022-04-15 22:19:57] Debug: 1: [Native] 
+[2022-04-15 22:19:58] Debug: Loading game Untitled
+[2022-04-15 22:19:58] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 22:19:58] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 22:19:58] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 22:20:01] Debug: RTP is "Official English" (675/675)
+[2022-04-15 22:20:01] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 22:20:01] Debug: Cannot find: ./ExFont
+[2022-04-15 22:20:01] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 22:20:01] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 22:20:01] Debug: Starting new game
+[2022-04-15 22:20:01] Debug: Loaded Map Map0005.lmu
+[2022-04-15 22:20:01] Debug: Tree: vents
+[2022-04-15 22:47:42] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 22:47:42] Debug: ============================
+[2022-04-15 22:47:42] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 22:47:42] Debug: Seeded the RNG with 1650088061.
+[2022-04-15 22:47:42] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 22:47:42] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 22:47:42] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 22:47:42] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 22:47:42] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 22:47:42] Debug: Game and Save Directory:
+[2022-04-15 22:47:42] Debug: 1: [Native] 
+[2022-04-15 22:47:42] Debug: Loading game Untitled
+[2022-04-15 22:47:42] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 22:47:42] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 22:47:42] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 22:47:45] Debug: RTP is "Official English" (675/675)
+[2022-04-15 22:47:45] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 22:47:45] Debug: Cannot find: ./ExFont
+[2022-04-15 22:47:45] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 22:47:45] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 22:47:47] Debug: Starting new game
+[2022-04-15 22:47:47] Debug: Loaded Map Map0005.lmu
+[2022-04-15 22:47:47] Debug: Tree: vents
+[2022-04-15 22:47:49] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 22:47:52] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192) [2x]
+[2022-04-15 22:47:52] Debug: Loaded Map Map0003.lmu
+[2022-04-15 22:47:52] Debug: Tree: room
+[2022-04-15 22:47:55] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 22:54:00] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 22:54:00] Debug: ============================
+[2022-04-15 22:54:00] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 22:54:00] Debug: Seeded the RNG with 1650088439.
+[2022-04-15 22:54:00] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 22:54:00] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 22:54:00] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 22:54:00] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 22:54:00] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 22:54:00] Debug: Game and Save Directory:
+[2022-04-15 22:54:00] Debug: 1: [Native] 
+[2022-04-15 22:54:01] Debug: Loading game Untitled
+[2022-04-15 22:54:01] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 22:54:01] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 22:54:01] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 22:54:05] Debug: RTP is "Official English" (675/675)
+[2022-04-15 22:54:05] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 22:54:05] Debug: Cannot find: ./ExFont
+[2022-04-15 22:54:05] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 22:54:05] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 22:54:06] Debug: Starting new game
+[2022-04-15 22:54:06] Debug: Loaded Map Map0005.lmu
+[2022-04-15 22:54:06] Debug: Tree: vents
+[2022-04-15 22:54:08] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 22:54:11] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192) [2x]
+[2022-04-15 22:54:11] Debug: Loaded Map Map0003.lmu
+[2022-04-15 22:54:11] Debug: Tree: room
+[2022-04-15 22:54:19] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 22:54:22] Debug: Starting new game
+[2022-04-15 22:54:22] Debug: Loaded Map Map0005.lmu
+[2022-04-15 22:54:22] Debug: Tree: vents
+[2022-04-15 22:54:25] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 22:54:27] Debug: Loaded Map Map0003.lmu
+[2022-04-15 22:54:27] Debug: Tree: room
+[2022-04-15 23:00:55] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 23:00:55] Debug: ============================
+[2022-04-15 23:00:55] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 23:00:55] Debug: Seeded the RNG with 1650088854.
+[2022-04-15 23:00:55] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 23:00:55] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 23:00:55] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 23:00:55] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 23:00:55] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 23:00:55] Debug: Game and Save Directory:
+[2022-04-15 23:00:55] Debug: 1: [Native] 
+[2022-04-15 23:00:55] Debug: Loading game Untitled
+[2022-04-15 23:00:55] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 23:00:55] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 23:00:55] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 23:00:58] Debug: RTP is "Official English" (675/675)
+[2022-04-15 23:00:58] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 23:00:58] Debug: Cannot find: ./ExFont
+[2022-04-15 23:00:58] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 23:00:58] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 23:00:59] Debug: Starting new game
+[2022-04-15 23:00:59] Debug: Loaded Map Map0005.lmu
+[2022-04-15 23:00:59] Debug: Tree: vents
+[2022-04-15 23:01:01] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 23:01:08] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192) [3x]
+[2022-04-15 23:01:08] Debug: Loaded Map Map0003.lmu
+[2022-04-15 23:01:08] Debug: Tree: room
+[2022-04-15 23:01:20] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 23:11:39] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 23:11:39] Debug: ============================
+[2022-04-15 23:11:39] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 23:11:39] Debug: Seeded the RNG with 1650089498.
+[2022-04-15 23:11:39] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 23:11:39] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 23:11:39] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 23:11:39] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 23:11:39] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 23:11:39] Debug: Game and Save Directory:
+[2022-04-15 23:11:39] Debug: 1: [Native] 
+[2022-04-15 23:11:39] Debug: Loading game Untitled
+[2022-04-15 23:11:39] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 23:11:39] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 23:11:39] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 23:11:42] Debug: RTP is "Official English" (675/675)
+[2022-04-15 23:11:42] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 23:11:42] Debug: Cannot find: ./ExFont
+[2022-04-15 23:11:42] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 23:11:42] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 23:11:43] Debug: Starting new game
+[2022-04-15 23:11:43] Debug: Loaded Map Map0005.lmu
+[2022-04-15 23:11:43] Debug: Tree: vents
+[2022-04-15 23:12:02] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 23:12:02] Debug: ============================
+[2022-04-15 23:12:02] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 23:12:02] Debug: Seeded the RNG with 1650089521.
+[2022-04-15 23:12:02] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 23:12:02] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 23:12:02] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 23:12:02] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 23:12:02] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 23:12:02] Debug: Game and Save Directory:
+[2022-04-15 23:12:02] Debug: 1: [Native] 
+[2022-04-15 23:12:02] Debug: Loading game Untitled
+[2022-04-15 23:12:02] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 23:12:02] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 23:12:02] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 23:12:05] Debug: RTP is "Official English" (675/675)
+[2022-04-15 23:12:05] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 23:12:05] Debug: Cannot find: ./ExFont
+[2022-04-15 23:12:05] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 23:12:05] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 23:12:06] Debug: Starting new game
+[2022-04-15 23:12:06] Debug: Loaded Map Map0005.lmu
+[2022-04-15 23:12:06] Debug: Tree: vents
+[2022-04-15 23:12:14] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 23:12:41] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 23:12:41] Debug: ============================
+[2022-04-15 23:12:41] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 23:12:41] Debug: Seeded the RNG with 1650089561.
+[2022-04-15 23:12:41] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 23:12:41] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 23:12:41] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 23:12:41] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 23:12:41] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 23:12:41] Debug: Game and Save Directory:
+[2022-04-15 23:12:41] Debug: 1: [Native] 
+[2022-04-15 23:12:42] Debug: Loading game Untitled
+[2022-04-15 23:12:42] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 23:12:42] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 23:12:42] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 23:12:44] Debug: RTP is "Official English" (675/675)
+[2022-04-15 23:12:44] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 23:12:44] Debug: Cannot find: ./ExFont
+[2022-04-15 23:12:44] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 23:12:44] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 23:12:45] Debug: Starting new game
+[2022-04-15 23:12:45] Debug: Loaded Map Map0005.lmu
+[2022-04-15 23:12:45] Debug: Tree: vents
+[2022-04-15 23:13:35] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 23:13:35] Debug: ============================
+[2022-04-15 23:13:35] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 23:13:35] Debug: Seeded the RNG with 1650089614.
+[2022-04-15 23:13:35] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 23:13:35] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 23:13:35] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 23:13:35] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 23:13:35] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 23:13:35] Debug: Game and Save Directory:
+[2022-04-15 23:13:35] Debug: 1: [Native] 
+[2022-04-15 23:13:35] Debug: Loading game Untitled
+[2022-04-15 23:13:35] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 23:13:35] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 23:13:35] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 23:13:38] Debug: RTP is "Official English" (675/675)
+[2022-04-15 23:13:38] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 23:13:38] Debug: Cannot find: ./ExFont
+[2022-04-15 23:13:38] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 23:13:38] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 23:13:39] Debug: Starting new game
+[2022-04-15 23:13:39] Debug: Loaded Map Map0005.lmu
+[2022-04-15 23:13:39] Debug: Tree: vents
+[2022-04-15 23:13:41] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-15 23:14:11] Debug: EasyRPG Player 0.7.0 started
+[2022-04-15 23:14:11] Debug: ============================
+[2022-04-15 23:14:11] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-15 23:14:11] Debug: Seeded the RNG with 1650089650.
+[2022-04-15 23:14:11] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-15 23:14:11] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-15 23:14:11] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-15 23:14:11] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-15 23:14:11] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-15 23:14:11] Debug: Game and Save Directory:
+[2022-04-15 23:14:11] Debug: 1: [Native] 
+[2022-04-15 23:14:11] Debug: Loading game Untitled
+[2022-04-15 23:14:11] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-15 23:14:11] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-15 23:14:11] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-15 23:14:14] Debug: RTP is "Official English" (675/675)
+[2022-04-15 23:14:14] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-15 23:14:14] Debug: Cannot find: ./ExFont
+[2022-04-15 23:14:14] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-15 23:14:14] Debug: EXEReader: EXFONT not found in dbase at 0x81697b54
+[2022-04-15 23:14:14] Debug: Starting new game
+[2022-04-15 23:14:14] Debug: Loaded Map Map0005.lmu
+[2022-04-15 23:14:14] Debug: Tree: vents
+[2022-04-15 23:14:20] Debug: Loaded Map Map0004.lmu
+[2022-04-15 23:14:20] Debug: Tree: moonocean
+[2022-04-15 23:14:21] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-15 23:14:21] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256) [4x]
+[2022-04-15 23:14:21] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256)
+[2022-04-15 23:14:33] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256) [20x]
+[2022-04-15 23:14:33] Debug: Loaded Map Map0005.lmu
+[2022-04-15 23:14:33] Debug: Tree: vents
