@@ -1,218 +1,3 @@
-[2022-04-17 20:42:13] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2022-04-17 20:42:13] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2022-04-17 20:42:16] Debug: RTP is "Official English" (675/675)
-[2022-04-17 20:42:16] Debug: Patch configuration: dynrpg=false maniac=false
-[2022-04-17 20:42:16] Debug: Cannot find: ./ExFont
-[2022-04-17 20:42:16] Debug: Loading ExFont from RPG_RT.exe
-[2022-04-17 20:42:16] Debug: EXEReader: EXFONT not found in dbase at 0x8169d674
-[2022-04-17 20:42:17] Debug: Starting new game
-[2022-04-17 20:42:17] Debug: Loaded Map Map0008.lmu
-[2022-04-17 20:42:17] Debug: Tree: lisa 2 < lisa
-[2022-04-17 20:42:17] Info: trolling
-[2022-04-17 20:42:20] Info: trolling [164x]
-[2022-04-17 20:42:20] Debug: Loaded Map Map0010.lmu
-[2022-04-17 20:42:20] Debug: Tree: many
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: trolling [2x]
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: trolling [2x]
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: trolling [2x]
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
-[2022-04-17 20:42:20] Info: trolling
-[2022-04-17 20:42:20] Info: BAILING AT MAPID
 [2022-04-17 20:42:20] Info: trolling
 [2022-04-17 20:42:20] Info: BAILING AT MAPID
 [2022-04-17 20:42:20] Info: trolling
@@ -1813,3 +1598,159 @@
 [2022-04-18 11:16:39] Debug: Loaded Map Map0019.lmu
 [2022-04-18 11:16:39] Debug: Tree: walkway
 [2022-04-18 11:16:39] Info: trolling
+[2022-04-18 11:17:53] Debug: EasyRPG Player 0.7.0 started
+[2022-04-18 11:17:53] Debug: ============================
+[2022-04-18 11:17:53] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-18 11:17:53] Debug: Seeded the RNG with 1650305862.
+[2022-04-18 11:17:53] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-18 11:17:53] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-18 11:17:53] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-18 11:17:53] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-18 11:17:53] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-18 11:17:53] Debug: Game and Save Directory:
+[2022-04-18 11:17:53] Debug: 1: [Native] 
+[2022-04-18 11:17:54] Debug: Loading game Untitled
+[2022-04-18 11:17:54] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-18 11:17:54] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-18 11:17:54] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-18 11:17:56] Debug: RTP is "Official English" (675/675)
+[2022-04-18 11:17:56] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-18 11:17:56] Debug: Cannot find: ./ExFont
+[2022-04-18 11:17:56] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-18 11:17:56] Debug: EXEReader: EXFONT not found in dbase at 0x8169d674
+[2022-04-18 11:17:57] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-18 11:17:57] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192) [2x]
+[2022-04-18 11:17:57] Debug: Loading Save Save01.lsd
+[2022-04-18 11:17:57] Debug: Savegame version 700 (EasyRPG Player 0.7.0)
+[2022-04-18 11:17:58] Debug: Loaded Map Map0001.lmu
+[2022-04-18 11:17:58] Debug: Tree: myroom
+[2022-04-18 11:17:58] Info: trolling
+[2022-04-18 11:18:02] Info: trolling [8x]
+[2022-04-18 11:18:02] Debug: Loaded Map Map0016.lmu
+[2022-04-18 11:18:02] Debug: Tree: outside < myroom < myroom
+[2022-04-18 11:18:02] Info: trolling
+[2022-04-18 11:18:05] Info: trolling [6x]
+[2022-04-18 11:18:05] Debug: Loaded Map Map0015.lmu
+[2022-04-18 11:18:05] Debug: Tree: myroom < myroom
+[2022-04-18 11:18:05] Info: trolling
+[2022-04-18 11:18:09] Info: trolling [2x]
+[2022-04-18 11:18:09] Debug: Loaded Map Map0012.lmu
+[2022-04-18 11:18:09] Debug: Tree: nexus
+[2022-04-18 11:18:09] Info: trolling
+[2022-04-18 11:18:09] Info: BAILING AT MAPID
+[2022-04-18 11:18:09] Info: trolling
+[2022-04-18 11:18:09] Info: trolling [4x]
+[2022-04-18 11:18:09] Info: BAILING AT MAPID
+[2022-04-18 11:18:09] Info: trolling
+[2022-04-18 11:18:30] Info: trolling [3x]
+[2022-04-18 11:18:30] Debug: Loaded Map Map0018.lmu
+[2022-04-18 11:18:30] Debug: Tree: grocery store
+[2022-04-18 11:18:30] Info: trolling
+[2022-04-18 11:18:40] Info: trolling [8x]
+[2022-04-18 11:18:40] Debug: Loaded Map Map0020.lmu
+[2022-04-18 11:18:40] Debug: Tree: grocery store < grocery store
+[2022-04-18 11:18:40] Info: trolling
+[2022-04-18 11:19:00] Info: trolling [2x]
+[2022-04-18 11:19:00] Debug: Loaded Map Map0019.lmu
+[2022-04-18 11:19:00] Debug: Tree: walkway
+[2022-04-18 11:19:00] Info: trolling
+[2022-04-18 11:19:15] Info: trolling [4x]
+[2022-04-18 11:19:15] Debug: Loaded Map Map0021.lmu
+[2022-04-18 11:19:15] Debug: Tree: my best friend
+[2022-04-18 11:19:15] Info: trolling
+[2022-04-18 11:19:15] Info: trolling [2x]
+[2022-04-18 11:19:15] Info: BAILING AT MAPID
+[2022-04-18 11:19:15] Info: trolling
+[2022-04-18 11:19:15] Info: trolling [3x]
+[2022-04-18 11:19:15] Info: BAILING AT MAPID
+[2022-04-18 11:19:15] Info: trolling
+[2022-04-18 11:19:43] Debug: Loaded Map Map0007.lmu
+[2022-04-18 11:19:43] Debug: Tree: lisa
+[2022-04-18 11:19:43] Info: trolling
+[2022-04-18 11:21:04] Debug: EasyRPG Player 0.7.0 started
+[2022-04-18 11:21:04] Debug: ============================
+[2022-04-18 11:21:04] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-18 11:21:04] Debug: Seeded the RNG with 1650306063.
+[2022-04-18 11:21:04] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-18 11:21:04] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-18 11:21:04] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-18 11:21:04] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-18 11:21:04] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-18 11:21:04] Debug: Game and Save Directory:
+[2022-04-18 11:21:04] Debug: 1: [Native] 
+[2022-04-18 11:21:04] Debug: Loading game Untitled
+[2022-04-18 11:21:04] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-18 11:21:04] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-18 11:21:04] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-18 11:21:06] Debug: RTP is "Official English" (675/675)
+[2022-04-18 11:21:06] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-18 11:21:06] Debug: Cannot find: ./ExFont
+[2022-04-18 11:21:06] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-18 11:21:06] Debug: EXEReader: EXFONT not found in dbase at 0x8169d674
+[2022-04-18 11:21:07] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-18 11:21:07] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192) [2x]
+[2022-04-18 11:21:07] Debug: Loading Save Save01.lsd
+[2022-04-18 11:21:07] Debug: Savegame version 700 (EasyRPG Player 0.7.0)
+[2022-04-18 11:21:07] Debug: Loaded Map Map0001.lmu
+[2022-04-18 11:21:07] Debug: Tree: myroom
+[2022-04-18 11:21:07] Info: trolling
+[2022-04-18 11:21:14] Info: trolling [8x]
+[2022-04-18 11:21:14] Debug: Loaded Map Map0016.lmu
+[2022-04-18 11:21:14] Debug: Tree: outside < myroom < myroom
+[2022-04-18 11:21:14] Info: trolling
+[2022-04-18 11:21:16] Info: trolling [6x]
+[2022-04-18 11:21:16] Debug: Loaded Map Map0015.lmu
+[2022-04-18 11:21:16] Debug: Tree: myroom < myroom
+[2022-04-18 11:21:16] Info: trolling
+[2022-04-18 11:21:20] Info: trolling [2x]
+[2022-04-18 11:21:20] Debug: Loaded Map Map0012.lmu
+[2022-04-18 11:21:20] Debug: Tree: nexus
+[2022-04-18 11:21:20] Info: trolling
+[2022-04-18 11:21:20] Info: BAILING AT MAPID
+[2022-04-18 11:21:20] Info: trolling
+[2022-04-18 11:21:20] Info: trolling [4x]
+[2022-04-18 11:21:20] Info: BAILING AT MAPID
+[2022-04-18 11:21:20] Info: trolling
+[2022-04-18 11:21:24] Info: trolling [3x]
+[2022-04-18 11:21:24] Debug: Loaded Map Map0004.lmu
+[2022-04-18 11:21:24] Debug: Tree: moonocean
+[2022-04-18 11:21:24] Info: trolling
+[2022-04-18 11:21:24] Info: trolling [87x]
+[2022-04-18 11:21:24] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256)
+[2022-04-18 11:21:24] Debug: Image size out of bounds: CharSet/earth (288x256 < 762x904 < 288x256) [4x]
+[2022-04-18 11:21:24] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256)
+[2022-04-18 11:21:24] Debug: Image size out of bounds: CharSet/rocks (288x256 < 73x42 < 288x256) [20x]
+[2022-04-18 11:21:24] Info: trolling
+[2022-04-18 11:22:10] Debug: EasyRPG Player 0.7.0 started
+[2022-04-18 11:22:10] Debug: ============================
+[2022-04-18 11:22:10] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-04-18 11:22:10] Debug: Seeded the RNG with 1650306130.
+[2022-04-18 11:22:10] Debug: CLI: TestPlay HideTitle Window 
+[2022-04-18 11:22:10] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-04-18 11:22:10] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-04-18 11:22:10] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-04-18 11:22:10] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-04-18 11:22:10] Debug: Game and Save Directory:
+[2022-04-18 11:22:10] Debug: 1: [Native] 
+[2022-04-18 11:22:10] Debug: Loading game Untitled
+[2022-04-18 11:22:10] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-04-18 11:22:10] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2022-04-18 11:22:10] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-04-18 11:22:13] Debug: RTP is "Official English" (675/675)
+[2022-04-18 11:22:13] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-04-18 11:22:13] Debug: Cannot find: ./ExFont
+[2022-04-18 11:22:13] Debug: Loading ExFont from RPG_RT.exe
+[2022-04-18 11:22:13] Debug: EXEReader: EXFONT not found in dbase at 0x8169d674
+[2022-04-18 11:22:14] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-18 11:22:14] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192) [2x]
+[2022-04-18 11:22:14] Debug: Loading Save Save01.lsd
+[2022-04-18 11:22:14] Debug: Savegame version 700 (EasyRPG Player 0.7.0)
+[2022-04-18 11:22:14] Debug: Loaded Map Map0001.lmu
+[2022-04-18 11:22:14] Debug: Tree: myroom
+[2022-04-18 11:22:14] Info: trolling
+[2022-04-18 11:22:16] Info: trolling [8x]
+[2022-04-18 11:22:16] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2022-04-18 11:22:19] Debug: Starting new game
+[2022-04-18 11:22:19] Debug: Loaded Map Map0019.lmu
+[2022-04-18 11:22:19] Debug: Tree: walkway
+[2022-04-18 11:22:19] Info: trolling
