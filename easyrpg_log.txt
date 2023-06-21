@@ -1,139 +1,3 @@
-[2023-06-20 18:29:23] Debug: Starting new game
-[2023-06-20 18:29:23] Debug: Loaded Map Map0022.lmu
-[2023-06-20 18:29:23] Debug: Tree: james
-[2023-06-20 18:29:23] Info: trolling
-[2023-06-20 18:29:25] Info: trolling [35x]
-[2023-06-20 18:29:25] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-06-20 18:29:25] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-06-20 18:29:25] Info: trolling
-[2023-06-20 18:29:26] Info: trolling [45x]
-[2023-06-20 18:29:26] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-06-20 18:29:26] Info: trolling
-[2023-06-20 18:30:36] Debug: EasyRPG Player 0.7.0 started
-[2023-06-20 18:30:36] Debug: ============================
-[2023-06-20 18:30:36] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-06-20 18:30:36] Debug: Seeded the RNG with 1687311036.
-[2023-06-20 18:30:36] Debug: CLI: TestPlay ShowTitle FullScreen 
-[2023-06-20 18:30:36] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-06-20 18:30:36] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-06-20 18:30:36] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-06-20 18:30:36] Debug: Detected encoding: ibm-5348_P100-1997
-[2023-06-20 18:30:36] Debug: Game and Save Directory:
-[2023-06-20 18:30:36] Debug: 1: [Native] 
-[2023-06-20 18:30:36] Debug: Loading game soto nemuri
-[2023-06-20 18:30:36] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-06-20 18:30:36] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-06-20 18:30:36] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-06-20 18:30:37] Debug: RTP is "Official English" (675/675)
-[2023-06-20 18:30:37] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-06-20 18:30:37] Debug: Cannot find: ./ExFont
-[2023-06-20 18:30:37] Debug: Loading ExFont from RPG_RT.exe
-[2023-06-20 18:30:37] Debug: EXEReader: EXFONT not found in dbase at 0x8169d674
-[2023-06-20 18:30:40] Debug: Starting new game
-[2023-06-20 18:30:40] Debug: Loaded Map Map0022.lmu
-[2023-06-20 18:30:40] Debug: Tree: james
-[2023-06-20 18:30:40] Info: trolling
-[2023-06-20 18:30:42] Info: trolling [35x]
-[2023-06-20 18:30:42] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-06-20 18:30:42] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-06-20 18:30:42] Info: trolling
-[2023-06-20 18:30:44] Info: trolling [60x]
-[2023-06-20 18:30:44] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-06-20 18:30:44] Info: trolling
-[2023-06-20 18:31:49] Debug: EasyRPG Player 0.7.0 started
-[2023-06-20 18:31:49] Debug: ============================
-[2023-06-20 18:31:49] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-06-20 18:31:49] Debug: Seeded the RNG with 1687311108.
-[2023-06-20 18:31:49] Debug: CLI: TestPlay ShowTitle FullScreen 
-[2023-06-20 18:31:49] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-06-20 18:31:49] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-06-20 18:31:49] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-06-20 18:31:49] Debug: Detected encoding: ibm-5348_P100-1997
-[2023-06-20 18:31:49] Debug: Game and Save Directory:
-[2023-06-20 18:31:49] Debug: 1: [Native] 
-[2023-06-20 18:31:49] Debug: Loading game soto nemuri
-[2023-06-20 18:31:49] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-06-20 18:31:49] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-06-20 18:31:49] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-06-20 18:31:50] Debug: RTP is "Official English" (675/675)
-[2023-06-20 18:31:50] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-06-20 18:31:50] Debug: Cannot find: ./ExFont
-[2023-06-20 18:31:50] Debug: Loading ExFont from RPG_RT.exe
-[2023-06-20 18:31:50] Debug: EXEReader: EXFONT not found in dbase at 0x8169d674
-[2023-06-20 18:31:51] Debug: Starting new game
-[2023-06-20 18:31:51] Debug: Loaded Map Map0022.lmu
-[2023-06-20 18:31:51] Debug: Tree: james
-[2023-06-20 18:31:51] Info: trolling
-[2023-06-20 18:31:52] Info: trolling [35x]
-[2023-06-20 18:31:52] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-06-20 18:31:52] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-06-20 18:31:52] Info: trolling
-[2023-06-20 18:31:57] Info: trolling [3405x]
-[2023-06-20 18:31:57] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-06-20 18:31:57] Info: trolling
-[2023-06-20 18:36:07] Debug: EasyRPG Player 0.7.0 started
-[2023-06-20 18:36:07] Debug: ============================
-[2023-06-20 18:36:07] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-06-20 18:36:07] Debug: Seeded the RNG with 1687311366.
-[2023-06-20 18:36:07] Debug: CLI: TestPlay ShowTitle FullScreen 
-[2023-06-20 18:36:07] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-06-20 18:36:07] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-06-20 18:36:07] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-06-20 18:36:07] Debug: Detected encoding: ibm-5348_P100-1997
-[2023-06-20 18:36:07] Debug: Game and Save Directory:
-[2023-06-20 18:36:07] Debug: 1: [Native] 
-[2023-06-20 18:36:07] Debug: Loading game soto nemuri
-[2023-06-20 18:36:07] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-06-20 18:36:07] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-06-20 18:36:07] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-06-20 18:36:08] Debug: RTP is "Official English" (675/675)
-[2023-06-20 18:36:08] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-06-20 18:36:08] Debug: Cannot find: ./ExFont
-[2023-06-20 18:36:08] Debug: Loading ExFont from RPG_RT.exe
-[2023-06-20 18:36:08] Debug: EXEReader: EXFONT not found in dbase at 0x8169d674
-[2023-06-20 18:36:10] Debug: Starting new game
-[2023-06-20 18:36:10] Debug: Loaded Map Map0022.lmu
-[2023-06-20 18:36:10] Debug: Tree: james
-[2023-06-20 18:36:10] Info: trolling
-[2023-06-20 18:36:11] Info: trolling [45x]
-[2023-06-20 18:36:11] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-06-20 18:36:11] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-06-20 18:36:11] Info: trolling
-[2023-06-20 18:36:12] Info: trolling [55x]
-[2023-06-20 18:36:12] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-06-20 18:36:12] Info: trolling
-[2023-06-20 18:39:44] Debug: EasyRPG Player 0.7.0 started
-[2023-06-20 18:39:44] Debug: ============================
-[2023-06-20 18:39:44] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-06-20 18:39:44] Debug: Seeded the RNG with 1687311584.
-[2023-06-20 18:39:44] Debug: CLI: TestPlay ShowTitle FullScreen 
-[2023-06-20 18:39:44] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-06-20 18:39:44] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-06-20 18:39:44] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-06-20 18:39:44] Debug: Detected encoding: ibm-5348_P100-1997
-[2023-06-20 18:39:44] Debug: Game and Save Directory:
-[2023-06-20 18:39:44] Debug: 1: [Native] 
-[2023-06-20 18:39:45] Debug: Loading game soto nemuri
-[2023-06-20 18:39:45] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-06-20 18:39:45] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-06-20 18:39:45] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-06-20 18:39:46] Debug: RTP is "Official English" (675/675)
-[2023-06-20 18:39:46] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-06-20 18:39:46] Debug: Cannot find: ./ExFont
-[2023-06-20 18:39:46] Debug: Loading ExFont from RPG_RT.exe
-[2023-06-20 18:39:46] Debug: EXEReader: EXFONT not found in dbase at 0x8169d674
-[2023-06-20 18:39:47] Debug: Starting new game
-[2023-06-20 18:39:47] Debug: Loaded Map Map0022.lmu
-[2023-06-20 18:39:47] Debug: Tree: james
-[2023-06-20 18:39:47] Info: trolling
-[2023-06-20 18:39:49] Info: trolling [45x]
-[2023-06-20 18:39:49] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-06-20 18:39:49] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-06-20 18:39:49] Info: trolling
-[2023-06-20 18:40:39] Debug: EasyRPG Player 0.7.0 started
-[2023-06-20 18:40:39] Debug: ============================
-[2023-06-20 18:40:39] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-06-20 18:40:39] Debug: Seeded the RNG with 1687311639.
 [2023-06-20 18:40:39] Debug: CLI: TestPlay ShowTitle FullScreen 
 [2023-06-20 18:40:39] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
 [2023-06-20 18:40:39] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
@@ -1540,3 +1404,125 @@
 [2023-06-20 22:22:06] Debug: Starting new game
 [2023-06-20 22:22:06] Debug: Loaded Map Map0017.lmu
 [2023-06-20 22:22:06] Debug: Tree: earth < earth < moonocean
+[2023-06-20 22:25:16] Debug: EasyRPG Player 0.7.0 started
+[2023-06-20 22:25:16] Debug: ============================
+[2023-06-20 22:25:16] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-06-20 22:25:16] Debug: Seeded the RNG with 1687325116.
+[2023-06-20 22:25:16] Debug: CLI: TestPlay HideTitle Window 
+[2023-06-20 22:25:16] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-06-20 22:25:16] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-06-20 22:25:16] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-06-20 22:25:16] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-06-20 22:25:16] Debug: Game and Save Directory:
+[2023-06-20 22:25:16] Debug: 1: [Native] 
+[2023-06-20 22:25:16] Debug: Loading game soto nemuri
+[2023-06-20 22:25:16] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-06-20 22:25:16] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-06-20 22:25:16] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-06-20 22:25:18] Debug: RTP is "Official English" (675/675)
+[2023-06-20 22:25:18] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-06-20 22:25:18] Debug: Cannot find: ./ExFont
+[2023-06-20 22:25:18] Debug: Loading ExFont from RPG_RT.exe
+[2023-06-20 22:25:18] Debug: EXEReader: EXFONT not found in dbase at 0x817a6d34
+[2023-06-20 22:27:28] Debug: EasyRPG Player 0.7.0 started
+[2023-06-20 22:27:28] Debug: ============================
+[2023-06-20 22:27:28] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-06-20 22:27:28] Debug: Seeded the RNG with 1687325247.
+[2023-06-20 22:27:28] Debug: CLI: TestPlay ShowTitle Window 
+[2023-06-20 22:27:28] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-06-20 22:27:28] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-06-20 22:27:28] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-06-20 22:27:28] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-06-20 22:27:28] Debug: Game and Save Directory:
+[2023-06-20 22:27:28] Debug: 1: [Native] 
+[2023-06-20 22:27:28] Debug: Loading game soto nemuri
+[2023-06-20 22:27:28] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-06-20 22:27:28] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-06-20 22:27:28] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-06-20 22:27:30] Debug: RTP is "Official English" (675/675)
+[2023-06-20 22:27:30] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-06-20 22:27:30] Debug: Cannot find: ./ExFont
+[2023-06-20 22:27:30] Debug: Loading ExFont from RPG_RT.exe
+[2023-06-20 22:27:30] Debug: EXEReader: EXFONT not found in dbase at 0x817a6d34
+[2023-06-20 22:27:32] Debug: Starting new game
+[2023-06-20 22:27:32] Debug: Loaded Map Map0001.lmu
+[2023-06-20 22:27:32] Debug: Tree: myroom
+[2023-06-20 22:27:35] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2023-06-20 22:28:07] Debug: EasyRPG Player 0.7.0 started
+[2023-06-20 22:28:07] Debug: ============================
+[2023-06-20 22:28:07] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-06-20 22:28:07] Debug: Seeded the RNG with 1687325287.
+[2023-06-20 22:28:07] Debug: CLI: TestPlay HideTitle Window 
+[2023-06-20 22:28:07] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-06-20 22:28:07] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-06-20 22:28:07] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-06-20 22:28:07] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-06-20 22:28:07] Debug: Game and Save Directory:
+[2023-06-20 22:28:07] Debug: 1: [Native] 
+[2023-06-20 22:28:07] Debug: Loading game soto nemuri
+[2023-06-20 22:28:07] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-06-20 22:28:07] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-06-20 22:28:07] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-06-20 22:28:09] Debug: RTP is "Official English" (675/675)
+[2023-06-20 22:28:09] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-06-20 22:28:09] Debug: Cannot find: ./ExFont
+[2023-06-20 22:28:09] Debug: Loading ExFont from RPG_RT.exe
+[2023-06-20 22:28:09] Debug: EXEReader: EXFONT not found in dbase at 0x817a6d34
+[2023-06-20 22:28:11] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2023-06-20 22:28:11] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192) [2x]
+[2023-06-20 22:28:11] Debug: Loading Save Save01.lsd
+[2023-06-20 22:28:11] Debug: Savegame version 700 (EasyRPG Player 0.7.0)
+[2023-06-20 22:28:11] Debug: Loaded Map Map0001.lmu
+[2023-06-20 22:28:11] Debug: Tree: myroom
+[2023-06-20 22:28:14] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2023-06-20 22:28:27] Debug: EasyRPG Player 0.7.0 started
+[2023-06-20 22:28:27] Debug: ============================
+[2023-06-20 22:28:27] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-06-20 22:28:27] Debug: Seeded the RNG with 1687325307.
+[2023-06-20 22:28:27] Debug: CLI: TestPlay ShowTitle Window 
+[2023-06-20 22:28:27] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-06-20 22:28:27] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-06-20 22:28:27] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-06-20 22:28:27] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-06-20 22:28:27] Debug: Game and Save Directory:
+[2023-06-20 22:28:27] Debug: 1: [Native] 
+[2023-06-20 22:28:27] Debug: Loading game soto nemuri
+[2023-06-20 22:28:27] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-06-20 22:28:27] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-06-20 22:28:27] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-06-20 22:28:29] Debug: RTP is "Official English" (675/675)
+[2023-06-20 22:28:29] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-06-20 22:28:29] Debug: Cannot find: ./ExFont
+[2023-06-20 22:28:29] Debug: Loading ExFont from RPG_RT.exe
+[2023-06-20 22:28:29] Debug: EXEReader: EXFONT not found in dbase at 0x817a6d34
+[2023-06-20 22:28:30] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2023-06-20 22:28:31] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192) [2x]
+[2023-06-20 22:28:31] Debug: Loading Save Save01.lsd
+[2023-06-20 22:28:31] Debug: Savegame version 700 (EasyRPG Player 0.7.0)
+[2023-06-20 22:28:31] Debug: Loaded Map Map0001.lmu
+[2023-06-20 22:28:31] Debug: Tree: myroom
+[2023-06-20 22:28:33] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
+[2023-06-20 22:29:17] Debug: EasyRPG Player 0.7.0 started
+[2023-06-20 22:29:17] Debug: ============================
+[2023-06-20 22:29:17] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-06-20 22:29:17] Debug: Seeded the RNG with 1687325356.
+[2023-06-20 22:29:17] Debug: CLI: TestPlay ShowTitle Window 
+[2023-06-20 22:29:17] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-06-20 22:29:17] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-06-20 22:29:17] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-06-20 22:29:17] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-06-20 22:29:17] Debug: Game and Save Directory:
+[2023-06-20 22:29:17] Debug: 1: [Native] 
+[2023-06-20 22:29:17] Debug: Loading game soto nemuri
+[2023-06-20 22:29:17] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-06-20 22:29:17] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-06-20 22:29:17] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-06-20 22:29:19] Debug: RTP is "Official English" (675/675)
+[2023-06-20 22:29:19] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-06-20 22:29:19] Debug: Cannot find: ./ExFont
+[2023-06-20 22:29:19] Debug: Loading ExFont from RPG_RT.exe
+[2023-06-20 22:29:19] Debug: EXEReader: EXFONT not found in dbase at 0x817a6d34
+[2023-06-20 22:29:20] Debug: Starting new game
+[2023-06-20 22:29:20] Debug: Loaded Map Map0001.lmu
+[2023-06-20 22:29:20] Debug: Tree: myroom
+[2023-06-20 22:29:23] Debug: Image size out of bounds: FaceSet/sumi (192x192 < 48x48 < 192x192)
